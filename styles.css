@@ -1,0 +1,73 @@
+body {
+  text-align: center;
+  font-size: 2rem;
+  background-color: #FBF8F1;
+  font-family: 'Bai Jamjuree', sans-serif;
+}
+
+td {
+  border: 5px solid #E9DAC1;
+  background-color: white;
+  font-size: 2.5rem;
+  font-weight: 400;
+}
+p{
+  font-size: 22px;
+  margin-bottom: 60px;
+}
+
+label {
+  visibility: inherit;
+}
+
+td {
+  width: 100px;
+  height: 100px;
+}
+
+table {
+  width: 50%;
+  margin-left: 25%;
+  border-collapse: collapse;
+}
+
+
+hr {
+  margin: 40px 48%;
+  border: dotted #F7ECDE 6px;
+  border-bottom: none;
+  width: 4%;
+}
+
+h1 {
+  margin: 150px 0px 15px;
+  font-weight: 500;
+  color: #BF9270;
+}
+
+footer{
+  padding: 80px 0px;
+  font-size: 20px;
+  background-color: white;
+  margin-top: 80px;
+}
+.stiliRez {
+  padding: 40px 0px ;
+  width: 10%;
+  margin-left: 45%;
+  text-align: center;
+  background-color: #E9DAC1;
+}
+
+.butoni {
+  border: 1px solid #54bab9;
+  font-size: 2rem;
+  padding: 10px 20px;
+  background-color: #54BAB9;
+  color: white;
+}
+
+.butoni:hover {
+  background-color: white;
+  color: #54BAB9;
+}
